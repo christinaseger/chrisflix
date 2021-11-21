@@ -1,0 +1,60 @@
+[
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "SAFE",
+      "url": "https://media.netflixreleases.com/images/350149d1200cc7b37e19cab421f439e1/safe-2018-poster.jpg",
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Clickbait",
+      "url": "https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/clickbait-poster.jpg?fit=426%2C597&ssl=1",
+      "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "DARK",
+      "url": "https://soniaunleashed.com/wp-content/uploads/2017/12/dark-netflix-poster.jpg",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "ALICE IN BORDERLAND",
+      "url": "https://es.web.img3.acsta.net/pictures/20/12/10/09/47/3988792.jpg",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "title": "DARK",
+      "url": "https://soniaunleashed.com/wp-content/uploads/2017/12/dark-netflix-poster.jpg",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "albumId": 1,
+      "id": 6,
+      "title": "YOU",
+      "url": "https://media.revistagq.com/photos/616d3352115cec0315ba5edf/master/pass/you.jpeg",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "albumId": 1,
+      "id": 7,
+      "title": "BIG MOUTH",
+      "url": "https://www.fiebreseries.com/wp-content/uploads/2021/04/Big-Mouth_poster_serie0.jpg",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "albumId": 1,
+      "id": 8,
+      "title": "DARK",
+      "url": "https://soniaunleashed.com/wp-content/uploads/2017/12/dark-netflix-poster.jpg",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    }
+    
+    
+  ]

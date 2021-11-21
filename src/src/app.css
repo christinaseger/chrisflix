@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  flex-direction:column;
+  column-count: 1;
+  background: #f7f4f4;
+  display: flex;
+ 
+}
+
+.content {
+  flex: 1;
+  max-width: calc(100vw - 250px);
+  min-height: 100vh;
+  height: 100%;
+  background: rgb(248, 248, 248);
+  
+}
+
+img {
+  width: 240px;
+  height: 290px;
+
+  flex-wrap: wrap;
+  
+  /* display: grid;
+  grid-template-columns: 80px 200px auto 30px;
+  grid-gap: 10px;
+  margin: 0;
+  align-items: center;
+  cursor: pointer; */
+  
+}
+
+Card {
+  display: flex;
+
+}
+
+.images {
+  display: flex;
+}
