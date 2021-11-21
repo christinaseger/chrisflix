@@ -23,38 +23,51 @@
     {
       "albumId": 1,
       "id": 4,
-      "title": "DARK",
-      "url": "https://soniaunleashed.com/wp-content/uploads/2017/12/dark-netflix-poster.jpg",
+      "title": "ALICE IN BORDERLAND",
+      "url": "https://es.web.img3.acsta.net/pictures/20/12/10/09/47/3988792.jpg",
       "thumbnailUrl": "https://via.placeholder.com/150/24f355"
     },
     {
       "albumId": 1,
       "id": 5,
-      "title": "DARK",
-      "url": "https://soniaunleashed.com/wp-content/uploads/2017/12/dark-netflix-poster.jpg",
+      "title": "LINE OF DUTY",
+      "url": "https://www.fiebreseries.com/wp-content/uploads/2021/03/Line-of-Duty_poster_serie0.jpg",
       "thumbnailUrl": "https://via.placeholder.com/150/24f355"
     },
     {
       "albumId": 1,
       "id": 6,
-      "title": "DARK",
-      "url": "https://soniaunleashed.com/wp-content/uploads/2017/12/dark-netflix-poster.jpg",
+      "title": "MR ROBOT",
+      "url": "https://es.web.img3.acsta.net/c_310_420/pictures/15/05/06/16/13/020977.jpg",
       "thumbnailUrl": "https://via.placeholder.com/150/24f355"
     },
     {
       "albumId": 1,
-      "id": 6,
-      "title": "DARK",
-      "url": "https://soniaunleashed.com/wp-content/uploads/2017/12/dark-netflix-poster.jpg",
+      "id": 7,
+      "title": "BIG MOUTH",
+      "url": "https://www.fiebreseries.com/wp-content/uploads/2021/04/Big-Mouth_poster_serie0.jpg",
       "thumbnailUrl": "https://via.placeholder.com/150/24f355"
     },
     {
       "albumId": 1,
-      "id": 6,
-      "title": "DARK",
-      "url": "https://soniaunleashed.com/wp-content/uploads/2017/12/dark-netflix-poster.jpg",
+      "id": 8,
+      "title": "BLACKLIST",
+      "url": "https://m.media-amazon.com/images/M/MV5BYTZlMDg3NjUtNmRkYS00NDNmLTk1YTQtZDQ1ZjJiMmQ0N2Y5XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "albumId": 1,
+      "id": 8,
+      "title": "LA CASA DE PAPEL",
+      "url": "https://phantom-marca.unidadeditorial.es/ca8ebbfaa8eb053a92f64124cc38a1af/resize/414/f/jpg/assets/multimedia/imagenes/2021/09/02/16305820546830.jpg",
+      "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+      "albumId": 1,
+      "id": 8,
+      "title": "THE FALL",
+      "url": "https://1.bp.blogspot.com/-uT0ntHneAv0/WPfHQeXwZ6I/AAAAAAAAB-M/fL9Gr4CnPCkleyiroT0WcuagfuOKjDIpwCLcB/s1600/the%2Bfall.jpg",
       "thumbnailUrl": "https://via.placeholder.com/150/24f355"
     }
-    
     
   ]
